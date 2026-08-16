@@ -20,6 +20,12 @@ A framework for looking beyond model capability to the system around it: trusted
 
 [中文版](./model-harness-product.zh-CN.md)
 
+### [What Product Managers Should—and Shouldn’t—Delegate to AI](./what-product-managers-should-not-delegate-to-ai.md)
+
+A practical boundary for AI-assisted product work: use AI to organize facts, expand options, challenge assumptions, and expose gaps — while keeping problem definition, scope, product rules, risk acceptance, and final accountability explicitly owned.
+
+[中文版](./what-product-managers-should-not-delegate-to-ai.zh-CN.md)
+
 ---
 
 Most of these notes began as shorter Chinese posts in my **100 Days Building** experiment. The versions here are edited for a professional audience rather than copied as a chronological archive.

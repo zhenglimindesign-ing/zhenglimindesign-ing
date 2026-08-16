@@ -30,6 +30,7 @@ A small set of field notes from building AI products — focused on product arch
 
 - **[AI Cost Is a Product Architecture Problem](./notes/ai-cost-is-a-product-architecture-problem.md)** — Why model spend becomes a product and systems decision once AI is embedded in a real workflow. [中文](./notes/ai-cost-is-a-product-architecture-problem.zh-CN.md)
 - **[Model + Harness + Product: What Makes an AI Product Work](./notes/model-harness-product.md)** — Why real AI product capability depends on context, tools, runtime, permissions, verification, and user control — not only the model. [中文](./notes/model-harness-product.zh-CN.md)
+- **[What Product Managers Should—and Shouldn’t—Delegate to AI](./notes/what-product-managers-should-not-delegate-to-ai.md)** — AI can expand options and expose gaps; consequential product choices still need explicit human ownership. [中文](./notes/what-product-managers-should-not-delegate-to-ai.zh-CN.md)
 
 [More notes →](./notes/README.md)
 

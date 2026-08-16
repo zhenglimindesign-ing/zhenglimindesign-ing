@@ -26,6 +26,12 @@ A practical boundary for AI-assisted product work: use AI to organize facts, exp
 
 [中文版](./what-product-managers-should-not-delegate-to-ai.zh-CN.md)
 
+### [From Linear Handoffs to Spiral Building with AI](./from-linear-handoffs-to-spiral-building-with-ai.md)
+
+How AI-assisted building changed my product-development rhythm: decide hard-to-reverse choices early, use implementation as evidence for questions that need a real product, build one end-to-end path, and replace lost team handoffs with deliberate product/design/engineering checkpoints.
+
+[中文版](./from-linear-handoffs-to-spiral-building-with-ai.zh-CN.md)
+
 ---
 
 Most of these notes began as shorter Chinese posts in my **100 Days Building** experiment. The versions here are edited for a professional audience rather than copied as a chronological archive.

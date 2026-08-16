@@ -14,6 +14,12 @@ What changed when I stopped treating AI cost as a token-pricing problem and star
 
 [中文版](./ai-cost-is-a-product-architecture-problem.zh-CN.md)
 
+### [Model + Harness + Product: What Makes an AI Product Work](./model-harness-product.md)
+
+A framework for looking beyond model capability to the system around it: trusted context, tools, runtime, execution loops, permissions, verification, and the product choices that determine where control stays with the user.
+
+[中文版](./model-harness-product.zh-CN.md)
+
 ---
 
 Most of these notes began as shorter Chinese posts in my **100 Days Building** experiment. The versions here are edited for a professional audience rather than copied as a chronological archive.

@@ -29,6 +29,7 @@ A privacy-first tool for organizing important personal information into a clear 
 A small set of field notes from building AI products — focused on product architecture, human/model boundaries, reliability, cost, and AI-assisted delivery.
 
 - **[AI Cost Is a Product Architecture Problem](./notes/ai-cost-is-a-product-architecture-problem.md)** — Why model spend becomes a product and systems decision once AI is embedded in a real workflow. [中文](./notes/ai-cost-is-a-product-architecture-problem.zh-CN.md)
+- **[Model + Harness + Product: What Makes an AI Product Work](./notes/model-harness-product.md)** — Why real AI product capability depends on context, tools, runtime, permissions, verification, and user control — not only the model. [中文](./notes/model-harness-product.zh-CN.md)
 
 [More notes →](./notes/README.md)
 

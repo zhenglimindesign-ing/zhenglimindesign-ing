@@ -6,6 +6,12 @@ I work on products where AI, complex workflows, and human judgment meet. My back
 
 ## Selected work
 
+### [Roleward](https://roleward.liminzheng.com)
+
+An AI career workbench connecting job discovery, evidence-grounded fit analysis, application preparation, and tracking.
+
+[Live product](https://roleward.liminzheng.com)
+
 ### [Asterline](https://asterline.liminzheng.com)
 
 An AI feedback-triage system that turns unstructured feedback into traceable work packs, with source grounding, evaluation, deterministic checks, and human review.
@@ -31,8 +37,7 @@ A small set of field notes from building AI products — focused on product arch
 - **[AI Cost Is a Product Architecture Problem](./notes/ai-cost-is-a-product-architecture-problem.md)** — Why model spend becomes a product and systems decision once AI is embedded in a real workflow. [中文](./notes/ai-cost-is-a-product-architecture-problem.zh-CN.md)
 - **[Model + Harness + Product: What Makes an AI Product Work](./notes/model-harness-product.md)** — Why real AI product capability depends on context, tools, runtime, permissions, verification, and user control — not only the model. [中文](./notes/model-harness-product.zh-CN.md)
 - **[What Product Managers Should—and Shouldn’t—Delegate to AI](./notes/what-product-managers-should-not-delegate-to-ai.md)** — AI can expand options and expose gaps; consequential product choices still need explicit human ownership. [中文](./notes/what-product-managers-should-not-delegate-to-ai.zh-CN.md)
-
-[More notes →](./notes/README.md)
+- **[From Linear Handoffs to Spiral Building with AI](./notes/from-linear-handoffs-to-spiral-building-with-ai.md)** — How AI-assisted building changes when implementation moves faster than product judgment, and why deliberate product, design, and engineering checkpoints still matter. [中文](./notes/from-linear-handoffs-to-spiral-building-with-ai.zh-CN.md)
 
 ## Building in public
 

@@ -10,7 +10,7 @@ I work on products where AI, complex workflows, and human judgment meet. My back
 
 An AI career workbench connecting job discovery, evidence-grounded fit analysis, application preparation, and tracking.
 
-[Live product](https://roleward.liminzheng.com)
+[Live product](https://roleward.liminzheng.com) · [Case study](https://roleward.liminzheng.com/case-study)
 
 ### [Asterline](https://asterline.liminzheng.com)
 

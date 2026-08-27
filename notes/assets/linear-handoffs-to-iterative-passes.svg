@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="760" viewBox="0 0 1400 760" role="img" aria-labelledby="title desc">
+  <title id="title">From linear handoffs to iterative passes</title>
+  <desc id="desc">A comparison between a team-based linear product development flow and AI-assisted iterative passes across product, design, build, and validation.</desc>
+  <rect width="1400" height="760" fill="#ffffff"/>
+
+  <style>
+    .title { font: 700 44px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill:#171717; }
+    .label { font: 700 26px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill:#222; }
+    .boxtext { font: 500 24px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill:#1f1f1f; }
+    .note { font: 400 22px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill:#555; }
+    .small { font: 500 20px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill:#444; }
+    .box { fill:#fff; stroke:#262626; stroke-width:2; rx:16; }
+    .soft { stroke:#d8d8d8; stroke-width:1.5; }
+    .arrow { stroke:#222; stroke-width:3; fill:none; marker-end:url(#arrow); }
+    .loop { stroke:#4e7d61; stroke-width:3; fill:none; marker-end:url(#arrowGreen); }
+    .bi { stroke:#222; stroke-width:3; fill:none; marker-start:url(#arrowStart); marker-end:url(#arrow); }
+  </style>
+
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#222"/>
+    </marker>
+    <marker id="arrowGreen" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#4e7d61"/>
+    </marker>
+    <marker id="arrowStart" markerWidth="10" markerHeight="10" refX="1" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M9,0 L9,6 L0,3 z" fill="#222"/>
+    </marker>
+  </defs>
+
+  <text x="70" y="75" class="title">From linear handoffs to iterative passes</text>
+
+  <text x="70" y="145" class="label">Before — team-based</text>
+  <g transform="translate(70,180)">
+    <rect class="box" x="0" y="0" width="190" height="90"/>
+    <text class="boxtext" x="95" y="55" text-anchor="middle">Product</text>
+
+    <rect class="box" x="270" y="0" width="190" height="90"/>
+    <text class="boxtext" x="365" y="55" text-anchor="middle">Design</text>
+
+    <rect class="box" x="540" y="0" width="190" height="90"/>
+    <text class="boxtext" x="635" y="55" text-anchor="middle">Engineering</text>
+
+    <rect class="box" x="810" y="0" width="190" height="90"/>
+    <text class="boxtext" x="905" y="55" text-anchor="middle">QA</text>
+
+    <rect class="box" x="1080" y="0" width="190" height="90"/>
+    <text class="boxtext" x="1175" y="55" text-anchor="middle">Launch</text>
+
+    <path class="arrow" d="M200 45 H260"/>
+    <path class="arrow" d="M470 45 H530"/>
+    <path class="arrow" d="M740 45 H800"/>
+    <path class="arrow" d="M1010 45 H1070"/>
+  </g>
+  <text x="70" y="310" class="note">Work moved through role-based handoffs.</text>
+
+  <line x1="70" y1="355" x2="1330" y2="355" class="soft"/>
+
+  <text x="70" y="420" class="label">Now — AI-assisted iterative passes</text>
+
+  <g transform="translate(170,475)">
+    <rect x="0" y="0" width="210" height="100" rx="18" fill="#eef5ee" stroke="#4e7d61" stroke-width="2"/>
+    <text class="boxtext" x="105" y="60" text-anchor="middle">Product</text>
+
+    <rect x="300" y="0" width="210" height="100" rx="18" fill="#eef4f8" stroke="#4c7590" stroke-width="2"/>
+    <text class="boxtext" x="405" y="60" text-anchor="middle">Design</text>
+
+    <rect x="600" y="0" width="210" height="100" rx="18" fill="#f1eff8" stroke="#6c6596" stroke-width="2"/>
+    <text class="boxtext" x="705" y="60" text-anchor="middle">Build</text>
+
+    <rect x="900" y="0" width="210" height="100" rx="18" fill="#f7f2e6" stroke="#8a7441" stroke-width="2"/>
+    <text class="boxtext" x="1005" y="60" text-anchor="middle">Validate</text>
+
+    <path class="bi" d="M220 50 H290"/>
+    <path class="bi" d="M520 50 H590"/>
+    <path class="bi" d="M820 50 H890"/>
+
+    <path class="loop" d="M1005 -12 C1005 -120, 105 -120, 105 -12"/>
+    <path class="loop" d="M705 112 C705 200, 405 200, 405 112"/>
+    <path class="loop" d="M1005 112 C1005 250, 105 250, 105 112"/>
+  </g>
+
+  <text x="170" y="655" class="note">Each pass creates evidence for the next decision.</text>
+  <text x="170" y="695" class="small">The goal is not a new fixed process, but repeated returns to product, design, build, and validation — moving forward as uncertainty is reduced.</text>
+</svg>

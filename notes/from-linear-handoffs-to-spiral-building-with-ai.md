@@ -22,6 +22,10 @@ Eventually I started seeing it differently.
 
 The workflow had not become “no process.” It had become more iterative — closer to a spiral than a relay race.
 
+![From linear handoffs to iterative passes](./assets/linear-handoffs-to-iterative-passes.svg)
+
+*From role-based handoffs to repeated passes through product, design, build, and validation.*
+
 The important question was no longer:
 
 > How do I think everything through before development starts?

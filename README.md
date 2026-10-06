@@ -10,7 +10,7 @@ I work on AI products where complex workflows and human judgment meet. My backgr
 
 An AI career workbench connecting job discovery, evidence-grounded fit analysis, application preparation, and tracking.
 
-[Live product](https://roleward.liminzheng.com) · [Open-source Agent Skill](https://github.com/zhenglimindesign-ing/roleward-job-hunting) · [Case study](https://roleward.liminzheng.com/case-study)
+[Live product](https://roleward.liminzheng.com) · [Open-source Agent Skill](https://github.com/zhenglimindesign-ing/roleward-job-hunting) · [Case study](https://roleward.liminzheng.com/case-study) · [Voice Interview Lab](https://roleward.liminzheng.com/interview-lab) (private experiment)
 
 ### [Asterline](https://asterline.liminzheng.com)
 

@@ -2,7 +2,7 @@
 
 Product manager, former product designer, and independent builder.
 
-I work on products where AI, complex workflows, and human judgment meet. My background spans B2B platforms, cloud security, and regulated digital-asset infrastructure. More recently, I’ve been building products end to end and documenting what I learn along the way.
+I work on AI products where complex workflows and human judgment meet. My background spans B2B platforms, cloud security, and regulated digital-asset infrastructure. More recently, I’ve been building products end to end, turning some recurring workflows into reusable Agent Skills, and documenting what I learn along the way.
 
 ## Selected work
 
@@ -10,7 +10,7 @@ I work on products where AI, complex workflows, and human judgment meet. My back
 
 An AI career workbench connecting job discovery, evidence-grounded fit analysis, application preparation, and tracking.
 
-[Live product](https://roleward.liminzheng.com) · [Case study](https://roleward.liminzheng.com/case-study)
+[Live product](https://roleward.liminzheng.com) · [Open-source Agent Skill](https://github.com/zhenglimindesign-ing/roleward-job-hunting) · [Case study](https://roleward.liminzheng.com/case-study)
 
 ### [Asterline](https://asterline.liminzheng.com)
 
@@ -30,21 +30,39 @@ A privacy-first tool for organizing important personal information into a clear 
 
 [Live product](https://allgood.liminzheng.com)
 
-## Writing & product notes
+## Open-source Agent Skills
 
-A small set of field notes from building AI products — focused on product architecture, human/model boundaries, reliability, cost, and AI-assisted delivery.
+### [Roleward Job Hunting](https://github.com/zhenglimindesign-ing/roleward-job-hunting)
+
+A precision-first Agent Skill for deciding which opportunities deserve attention, positioning yourself truthfully, preparing application materials, and keeping job-search context connected over time.
+
+### [Reflection Companion](https://github.com/zhenglimindesign-ing/reflection-companion)
+
+A source-aware reflection Skill for learning from AI conversations and personal material, with optional continuity, corrections, and recurring review workflows.
+
+### [Score Simplifier](https://github.com/zhenglimindesign-ing/piano-score-simplifier)
+
+An AI Skill for creating easier solo-piano arrangements from reliable source scores while keeping source fidelity, musical character, technical burden, and verification separate.
+
+## Writing & building in public
+
+### [100 Days Building](https://100days.liminzheng.com)
+
+An ongoing public record of building AI products, Agent Skills, and independent experiments — including what worked, what failed, and how my thinking changed along the way.
+
+[Read the site](https://100days.liminzheng.com) · Original posts primarily in Chinese on RedNote: **Limin Zheng**
+
+### [Substack](https://liminzheng.substack.com/)
+
+Longer-form writing and selected essays on AI products, product judgment, and building.
+
+### Selected product notes
 
 - **[AI Cost Is a Product Architecture Problem](./notes/ai-cost-is-a-product-architecture-problem.md)** — Why model spend becomes a product and systems decision once AI is embedded in a real workflow. [中文](./notes/ai-cost-is-a-product-architecture-problem.zh-CN.md)
 - **[Model + Harness + Product: What Makes an AI Product Work](./notes/model-harness-product.md)** — Why real AI product capability depends on context, tools, runtime, permissions, verification, and user control — not only the model. [中文](./notes/model-harness-product.zh-CN.md)
 - **[What Product Managers Should—and Shouldn’t—Delegate to AI](./notes/what-product-managers-should-not-delegate-to-ai.md)** — AI can expand options and expose gaps; consequential product choices still need explicit human ownership. [中文](./notes/what-product-managers-should-not-delegate-to-ai.zh-CN.md)
 - **[From Linear Handoffs to Spiral Building with AI](./notes/from-linear-handoffs-to-spiral-building-with-ai.md)** — How AI-assisted building changes when implementation moves faster than product judgment, and why deliberate product, design, and engineering checkpoints still matter. [中文](./notes/from-linear-handoffs-to-spiral-building-with-ai.zh-CN.md)
 
-## Building in public
-
-**100 Days Building** — a public experiment documenting what I learn while building independent products, primarily in Chinese on RedNote.
-
-RedNote: **Limin Zheng**
-
 ## Elsewhere
 
-[Personal site](https://liminzheng.com) · [Substack](https://liminzheng.substack.com/) · [LinkedIn](https://www.linkedin.com/in/limin-zheng)
+[Personal site](https://liminzheng.com) · [LinkedIn](https://www.linkedin.com/in/limin-zheng)

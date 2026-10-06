@@ -2,9 +2,9 @@
 
 Product manager, former product designer, and independent builder.
 
-I work on AI products where complex workflows and human judgment meet. My background spans B2B platforms, cloud security, and regulated digital-asset infrastructure. More recently, I’ve been building products end to end, turning some recurring workflows into reusable Agent Skills, and documenting what I learn along the way.
+I work on AI products where complex workflows and human judgment meet. My background spans B2B platforms, cloud security, and regulated digital-asset infrastructure. More recently, I’ve been building products end to end, packaging some recurring workflows as reusable Agent Skills, and documenting the process in public.
 
-## Selected work
+## Selected products
 
 ### [Roleward](https://roleward.liminzheng.com)
 
@@ -32,17 +32,9 @@ A privacy-first tool for organizing important personal information into a clear 
 
 ## Open-source Agent Skills
 
-### [Roleward Job Hunting](https://github.com/zhenglimindesign-ing/roleward-job-hunting)
-
-A precision-first Agent Skill for deciding which opportunities deserve attention, positioning yourself truthfully, preparing application materials, and keeping job-search context connected over time.
-
-### [Reflection Companion](https://github.com/zhenglimindesign-ing/reflection-companion)
-
-A source-aware reflection Skill for learning from AI conversations and personal material, with optional continuity, corrections, and recurring review workflows.
-
-### [Score Simplifier](https://github.com/zhenglimindesign-ing/piano-score-simplifier)
-
-An AI Skill for creating easier solo-piano arrangements from reliable source scores while keeping source fidelity, musical character, technical burden, and verification separate.
+- **[Roleward Job Hunting](https://github.com/zhenglimindesign-ing/roleward-job-hunting)** — A precision-first Agent Skill for deciding which opportunities deserve attention, positioning yourself truthfully, preparing application materials, and keeping job-search context connected over time.
+- **[Reflection Companion](https://github.com/zhenglimindesign-ing/reflection-companion)** — A source-aware reflection Skill for learning from AI conversations and personal material, with optional continuity, corrections, and recurring review workflows.
+- **[Score Simplifier](https://github.com/zhenglimindesign-ing/piano-score-simplifier)** — An AI Skill for creating easier solo-piano arrangements from reliable source scores while keeping source fidelity, musical character, technical burden, and verification separate.
 
 ## Writing & building in public
 
@@ -54,7 +46,7 @@ An ongoing public record of building AI products, Agent Skills, and independent 
 
 ### [Substack](https://liminzheng.substack.com/)
 
-Longer-form writing and selected essays on AI products, product judgment, and building.
+Longer-form writing on AI products, AI-assisted work, product judgment, and independent building.
 
 ### Selected product notes
 

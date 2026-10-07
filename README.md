@@ -25,9 +25,9 @@ Experiment: [Voice Interview Lab](https://roleward.liminzheng.com/interview-lab)
 
 ### Building in public
 
-<a href="https://100days.liminzheng.com/en"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/100days-dark.png"><img src="assets/100days-light.png" alt="100 Days Building — one note a day, coloured by topic"></picture></a>
+<a href="https://100days.liminzheng.com/en"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/100days-dark.png"><img src="assets/100days-light.png" alt="100 Days Building — snapshot through Season 2 Day 25, updated 7 Oct 2026, coloured by topic"></picture></a>
 
-One note a day on [100 Days Building](https://100days.liminzheng.com/en). Longer essays on [Substack](https://liminzheng.substack.com/).
+Snapshot above: **S2 through Day 25 · updated 7 Oct 2026**. For the current archive, visit [100 Days Building](https://100days.liminzheng.com/en). Longer essays on [Substack](https://liminzheng.substack.com/).
 
 <details>
 <summary><b>Selected product notes</b> · English / 中文</summary>

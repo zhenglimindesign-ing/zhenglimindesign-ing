@@ -1,60 +1,42 @@
-# Limin Zheng
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.png"><img src="assets/header-light.png" alt="Limin Zheng — product manager, former product designer, independent builder. “I’d rather not be easy to define.”"></picture>
 
-Product manager, former product designer, and independent builder.
+I build AI products end to end. Before that: B2B platforms, cloud security, and regulated digital-asset infrastructure.
 
-I work on AI products where complex workflows and human judgment meet. My background spans B2B platforms, cloud security, and regulated digital-asset infrastructure. More recently, I’ve been building products end to end, packaging some recurring workflows as reusable Agent Skills, and documenting the process in public.
+### Products
 
-## Selected products
+<p>
+  <a href="https://roleward.liminzheng.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-roleward-dark.png"><img src="assets/card-roleward-light.png" alt="Roleward — find roles that fit, then prepare and track your applications" width="49%"></picture></a>
+  <a href="https://asterline.liminzheng.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-asterline-dark.png"><img src="assets/card-asterline-light.png" alt="Asterline — turns a pile of user feedback into traceable work items" width="49%"></picture></a>
+  <a href="https://pianology.liminzheng.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-pianology-dark.png"><img src="assets/card-pianology-light.png" alt="Pianology — helps adult piano learners make short practice sessions count" width="49%"></picture></a>
+  <a href="https://allgood.liminzheng.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-allgood-dark.png"><img src="assets/card-allgood-light.png" alt="AllGood — leave your family an organized index of what they’d need" width="49%"></picture></a>
+</p>
 
-### [Roleward](https://roleward.liminzheng.com)
+Case studies: [Roleward](https://roleward.liminzheng.com/case-study) · [Asterline](https://github.com/zhenglimindesign-ing/asterline/blob/main/CASE-STUDY.md)
 
-An AI career workbench connecting job discovery, evidence-grounded fit analysis, application preparation, and tracking.
+Experiment: [Voice Interview Lab](https://roleward.liminzheng.com/interview-lab) *(private, owner-only)*
 
-[Live product](https://roleward.liminzheng.com) · [Open-source Agent Skill](https://github.com/zhenglimindesign-ing/roleward-job-hunting) · [Case study](https://roleward.liminzheng.com/case-study) · [Voice Interview Lab](https://roleward.liminzheng.com/interview-lab) (private experiment)
+### Open-source agent skills
 
-### [Asterline](https://asterline.liminzheng.com)
+| Skill | What it does | Status |
+|---|---|---|
+| [Roleward Job Hunting](https://github.com/zhenglimindesign-ing/roleward-job-hunting) | Decide which roles deserve attention, then prepare truthful application materials. | Public alpha · Codex |
+| [Reflection Companion](https://github.com/zhenglimindesign-ing/reflection-companion) | Turns your AI conversations into diaries, weekly reviews and questioned assumptions. | Alpha · v0.5.6 |
+| [Score Simplifier](https://github.com/zhenglimindesign-ing/piano-score-simplifier) | Easier solo-piano arrangements from a reliable source score. PDF, MusicXML, MIDI. | Alpha · v0.3.7 |
 
-An AI feedback-triage system that turns unstructured feedback into traceable work packs, with source grounding, evaluation, deterministic checks, and human review.
+### Building in public
 
-[Live demo](https://asterline.liminzheng.com) · [Source](https://github.com/zhenglimindesign-ing/asterline) · [Case study](https://github.com/zhenglimindesign-ing/asterline/blob/main/CASE-STUDY.md)
+<a href="https://100days.liminzheng.com/en"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/100days-dark.png"><img src="assets/100days-light.png" alt="100 Days Building — one note a day, coloured by topic"></picture></a>
 
-### [Pianology](https://pianology.liminzheng.com)
+One note a day on [100 Days Building](https://100days.liminzheng.com/en). Longer essays on [Substack](https://liminzheng.substack.com/).
 
-A practice companion for adult piano learners, designed to make limited practice time more focused and useful.
+<details>
+<summary><b>Selected product notes</b> · English / 中文</summary>
 
-[Live product](https://pianology.liminzheng.com)
+- **[AI Cost Is a Product Architecture Problem](notes/ai-cost-is-a-product-architecture-problem.md)** · [中文](notes/ai-cost-is-a-product-architecture-problem.zh-CN.md)
+- **[Model + Harness + Product](notes/model-harness-product.md)** · [中文](notes/model-harness-product.zh-CN.md)
+- **[What PMs Should—and Shouldn't—Delegate to AI](notes/what-product-managers-should-not-delegate-to-ai.md)** · [中文](notes/what-product-managers-should-not-delegate-to-ai.zh-CN.md)
+- **[From Linear Handoffs to Spiral Building](notes/from-linear-handoffs-to-spiral-building-with-ai.md)** · [中文](notes/from-linear-handoffs-to-spiral-building-with-ai.zh-CN.md)
 
-### [AllGood](https://allgood.liminzheng.com)
+</details>
 
-A privacy-first tool for organizing important personal information into a clear handover for the people who may one day need it.
-
-[Live product](https://allgood.liminzheng.com)
-
-## Open-source Agent Skills
-
-- **[Roleward Job Hunting](https://github.com/zhenglimindesign-ing/roleward-job-hunting)** — A precision-first Agent Skill for deciding which opportunities deserve attention, positioning yourself truthfully, preparing application materials, and keeping job-search context connected over time.
-- **[Reflection Companion](https://github.com/zhenglimindesign-ing/reflection-companion)** — A source-aware reflection Skill for learning from AI conversations and personal material, with optional continuity, corrections, and recurring review workflows.
-- **[Score Simplifier](https://github.com/zhenglimindesign-ing/piano-score-simplifier)** — An AI Skill for creating easier solo-piano arrangements from reliable source scores while keeping source fidelity, musical character, technical burden, and verification separate.
-
-## Writing & building in public
-
-### [100 Days Building](https://100days.liminzheng.com)
-
-An ongoing public record of building AI products, Agent Skills, and independent experiments — including what worked, what failed, and how my thinking changed along the way.
-
-[Read the site](https://100days.liminzheng.com) · Original posts primarily in Chinese on RedNote: **Limin Zheng**
-
-### [Substack](https://liminzheng.substack.com/)
-
-Longer-form writing on AI products, AI-assisted work, product judgment, and independent building.
-
-### Selected product notes
-
-- **[AI Cost Is a Product Architecture Problem](./notes/ai-cost-is-a-product-architecture-problem.md)** — Why model spend becomes a product and systems decision once AI is embedded in a real workflow. [中文](./notes/ai-cost-is-a-product-architecture-problem.zh-CN.md)
-- **[Model + Harness + Product: What Makes an AI Product Work](./notes/model-harness-product.md)** — Why real AI product capability depends on context, tools, runtime, permissions, verification, and user control — not only the model. [中文](./notes/model-harness-product.zh-CN.md)
-- **[What Product Managers Should—and Shouldn’t—Delegate to AI](./notes/what-product-managers-should-not-delegate-to-ai.md)** — AI can expand options and expose gaps; consequential product choices still need explicit human ownership. [中文](./notes/what-product-managers-should-not-delegate-to-ai.zh-CN.md)
-- **[From Linear Handoffs to Spiral Building with AI](./notes/from-linear-handoffs-to-spiral-building-with-ai.md)** — How AI-assisted building changes when implementation moves faster than product judgment, and why deliberate product, design, and engineering checkpoints still matter. [中文](./notes/from-linear-handoffs-to-spiral-building-with-ai.zh-CN.md)
-
-## Elsewhere
-
-[Personal site](https://liminzheng.com) · [LinkedIn](https://www.linkedin.com/in/limin-zheng)
+[liminzheng.com](https://liminzheng.com) · [LinkedIn](https://www.linkedin.com/in/limin-zheng) · [Substack](https://liminzheng.substack.com/) · [X](https://x.com/Limin__Zheng) · zhenglimin.design@gmail.com

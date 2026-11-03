@@ -39,4 +39,4 @@ Snapshot above: **S2 through Day 25 · updated 7 Oct 2026**. For the current arc
 
 </details>
 
-[liminzheng.com](https://liminzheng.com) · [LinkedIn](https://www.linkedin.com/in/limin-zheng) · [Substack](https://liminzheng.substack.com/) · [X](https://x.com/Limin__Zheng) · zhenglimin.design@gmail.com
+[liminzheng.com](https://www.liminzheng.com/) · [LinkedIn](https://www.linkedin.com/in/limin-zheng) · [Substack](https://liminzheng.substack.com/) · [X](https://x.com/Limin__Zheng) · zhenglimin.design@gmail.com
